@@ -1,5 +1,5 @@
 import { GoogleGenAI } from '@google/genai';
-const GEMINI_API_KEY = 
+const GEMINI_API_KEY = "AIzaSyCapG3-p1jLirubpMt5QKhS4Adp5QPDtRQ"
 
 const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 
